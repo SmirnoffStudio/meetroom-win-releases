@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Meetroom</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 24 May 2026 00:57:58 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/SmirnoffStudio/meetroom-releases/releases/download/macos-v0.1-7/Meetroom-macOS.zip" length="24137353" type="application/octet-stream" sparkle:edSignature="3XDRxoUPwJ3OltTOHAws9+spyfKcZrv8UcSXnKbvxWbkzOJ8jlppTKy1Kw5lWchW2VGudGBI014YCYennDN3DQ=="/>
+        </item>
+    </channel>
+</rss>
