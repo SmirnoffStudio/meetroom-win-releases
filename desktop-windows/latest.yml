@@ -1,8 +1,8 @@
-version: 0.1.22
+version: 0.1.23
 files:
-  - url: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.22/Meetroom-Desktop-Setup-0.1.22-x64.exe
-    sha512: R08gDp8zEkpXvebO3mwCL5ba3LdZvvCfvCjrcAvcpqoRbXh/Ff3qknKZ+x06JK/M4OwWTzB9ssd45rataOG4Ag==
-    size: 81844651
-path: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.22/Meetroom-Desktop-Setup-0.1.22-x64.exe
-sha512: R08gDp8zEkpXvebO3mwCL5ba3LdZvvCfvCjrcAvcpqoRbXh/Ff3qknKZ+x06JK/M4OwWTzB9ssd45rataOG4Ag==
-releaseDate: '2026-07-10T16:56:41.581Z'
+  - url: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.23/Meetroom-Desktop-Setup-0.1.23-x64.exe
+    sha512: apsb3+obwZFqO7EGdnkCB2FyC3lLK7gu5u2pv6aK8C823rFlXcNVlN07iM+MjvGoy28nZDfrm4BZ7lRLZauylw==
+    size: 81846982
+path: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.23/Meetroom-Desktop-Setup-0.1.23-x64.exe
+sha512: apsb3+obwZFqO7EGdnkCB2FyC3lLK7gu5u2pv6aK8C823rFlXcNVlN07iM+MjvGoy28nZDfrm4BZ7lRLZauylw==
+releaseDate: '2026-07-10T17:28:52.005Z'
