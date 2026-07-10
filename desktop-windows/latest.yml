@@ -1,8 +1,8 @@
-version: 0.1.29
+version: 0.1.30
 files:
-  - url: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.29/Meetroom-Desktop-Setup-0.1.29-x64.exe
-    sha512: auUfp0WZzjQaRwsQ9rf5+kuTunILu7IV0ACXprZDP+4OuetRT4NQJZxfzWvNgcoTOSfCtmCWEjkgSa2NaV2Gvw==
-    size: 81850245
-path: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.29/Meetroom-Desktop-Setup-0.1.29-x64.exe
-sha512: auUfp0WZzjQaRwsQ9rf5+kuTunILu7IV0ACXprZDP+4OuetRT4NQJZxfzWvNgcoTOSfCtmCWEjkgSa2NaV2Gvw==
-releaseDate: '2026-07-10T21:47:46.574Z'
+  - url: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.30/Meetroom-Desktop-Setup-0.1.30-x64.exe
+    sha512: RY5r3QS0G2U7peQ9CzW+wzT307pSNrWkKR0qHzRUt7H3jYF/Gi8jnVe1k53bOAPj0H5OxSDxpBlJvIrycCHypw==
+    size: 81849726
+path: https://github.com/SmirnoffStudio/meetroom-win-releases/releases/download/desktop-windows-v0.1.30/Meetroom-Desktop-Setup-0.1.30-x64.exe
+sha512: RY5r3QS0G2U7peQ9CzW+wzT307pSNrWkKR0qHzRUt7H3jYF/Gi8jnVe1k53bOAPj0H5OxSDxpBlJvIrycCHypw==
+releaseDate: '2026-07-10T22:05:27.698Z'
